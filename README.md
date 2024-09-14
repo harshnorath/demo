@@ -1,4 +1,4 @@
 # demo
 this is my demo git repository 
 <br>
-author - harsh norath
+author - harsh (norath)
